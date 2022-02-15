@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 SMTH went wrong
+=======
+
+Today is St. Valentine's day!
+I have found a problem
+>>>>>>> branch_new
