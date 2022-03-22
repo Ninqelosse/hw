@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fc98be6b-a5b7-49b1-a3fe-6ed32ea3db41": {
+      "ProjectGuid": "fc98be6b-a5b7-49b1-a3fe-6ed32ea3db41",
+      "DisplayName": "SMARTpointers",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
