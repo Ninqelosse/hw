@@ -1,0 +1,11 @@
+#include <iostream> 
+
+int main()
+{ 
+	std::cout << "Hello, \"\"M\"  world! " << std::endl; 
+	
+	int x; 
+	
+	int y; 
+} 
+
